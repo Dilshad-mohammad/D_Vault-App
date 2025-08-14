@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "843827003458",
+    "project_id": "devault-a4416",
+    "storage_bucket": "devault-a4416.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:843827003458:android:6dcdfdf61f9596b6832ddb",
+        "android_client_info": {
+          "package_name": "com.example.cwt_ecommerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "843827003458-oo22rchhsm42p4v3h1r36p7026iraod0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.cwt_ecommerce_app",
+            "certificate_hash": "931b3abec489237227fcdc123d906b88435d3126"
+          }
+        },
+        {
+          "client_id": "843827003458-es4kdv238primfbe86phfh1q0tqmn27d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMTC5lL-70MtqIWyeEJrMVqtnHDbgY1Dk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "843827003458-es4kdv238primfbe86phfh1q0tqmn27d.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "843827003458-2dne500ie8rrg41vgmoefqsjqhgtkf21.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.devault"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
